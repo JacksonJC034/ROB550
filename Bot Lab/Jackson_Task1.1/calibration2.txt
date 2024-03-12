@@ -1,0 +1,89 @@
+Testing Encoder Polarity...                                                     
+E0: 0 , E1: 0                                                                   
+E0: -80 , E1: -90                                                               
+E0: -123 , E1: -129                                                             
+E0: -129 , E1: -131                                                             
+E0: -126 , E1: -127                                                             
+                                                                                
+ENC0 POL: -1 , ENC1 POL: -1                                                     
+Motor Polarity: (-1, -1)  Left ID: 0, Right ID: 1                               
+Driving Forward...                                                              
+Encoder Readings: R: -658, L: 596,                                              
+Driving Backward...                                                             
+Encoder Readings: R: 600, L: -607,                                              
+Turning Positive (CCW)...                                                       
+Encoder Readings: R: -601, L: -584,                                             
+Turning Negative (CW)...                                                        
+Encoder Readings: R: 570, L: 581,                                               
+Measuring Motor Calibration...                                                  
+Measuring CCW...                                                                
+duty: 0.000000, right: 0.000000, left: 0.000000                                 
+duty: -0.050000, right: 0.000000, left: 0.000000                                
+duty: -0.100000, right: -0.559848, left: -0.475267                              
+duty: -0.150000, right: -1.635239, left: -1.421772                              
+duty: -0.200000, right: -2.561606, left: -2.501191                              
+duty: -0.250000, right: -3.399364, left: -3.536305                              
+duty: -0.300000, right: -4.261289, left: -4.539198                              
+duty: -0.350000, right: -5.207794, left: -5.449455                              
+duty: -0.400000, right: -6.287213, left: -6.395960                              
+duty: -0.450000, right: -7.128999, left: -7.398853                              
+duty: -0.500000, right: -7.870092, left: -8.450079                              
+duty: -0.550000, right: -8.836736, left: -9.360335                              
+duty: -0.600000, right: -9.722826, left: -10.383367                             
+duty: -0.650000, right: -10.399477, left: -11.366121                            
+duty: -0.700000, right: -11.410425, left: -12.328737                            
+duty: -0.750000, right: -12.095132, left: -13.416211                            
+duty: -0.800000, right: -13.037609, left: -14.338551                            
+duty: -0.850000, right: -13.673984, left: -15.357554                            
+duty: -0.900000, right: -14.592295, left: -16.312115                            
+duty: -0.950000, right: -15.281029, left: -17.290842                            
+duty: -1.000000, right: -16.042261, left: -18.241375                            
+                                                                                
+                                                                                
+Measuring CW...                                                                 
+duty: 0.000000, right: 0.000000, left: 0.000000                                 
+duty: 0.050000, right: 0.000000, left: 0.008055                                 
+duty: 0.100000, right: 0.596097, left: 0.354436                                 
+duty: 0.150000, right: 1.502326, left: 1.296914                                 
+duty: 0.200000, right: 2.392444, left: 2.388416                                 
+duty: 0.250000, right: 3.322838, left: 3.387281                                 
+duty: 0.300000, right: 4.349897, left: 4.386147                                 
+duty: 0.350000, right: 5.413206, left: 5.316541                                 
+duty: 0.400000, right: 6.484570, left: 6.105967                                 
+duty: 0.450000, right: 7.394825, left: 7.064556                                 
+duty: 0.500000, right: 8.377581, left: 8.103698                                 
+duty: 0.550000, right: 9.501304, left: 8.925345                                 
+duty: 0.600000, right: 10.471975, left: 9.823519                                
+duty: 0.650000, right: 11.495007, left: 10.810301                               
+duty: 0.700000, right: 12.594564, left: 11.535284                               
+duty: 0.750000, right: 13.581347, left: 12.534149                               
+duty: 0.800000, right: 14.705070, left: 13.247048                               
+duty: 0.850000, right: 15.663658, left: 14.197582                               
+duty: 0.900000, right: 16.722939, left: 14.991035                               
+duty: 0.950000, right: 17.766109, left: 15.784489                               
+duty: 1.000000, right: 18.732754, left: 16.646414                               
+Right Motor Calibration:                                                        
+m_rp: 0.050941                                                                  
+b_rp: 0.058392                                                                  
+m_rn: 0.059489                                                                  
+b_rn: -0.033026                                                                 
+Left Motor Calibration:                                                         
+m_lp: 0.056382                                                                  
+b_lp: 0.051877                                                                  
+m_ln: 0.052385                                                                  
+b_ln: -0.052192                                                                 
+                                                                                
+Parameters stored in FRAM (104 bytes):                                          
+Robot Type: 1                                                                   
+Wheel Radius: 0.041830                                                          
+Wheel Base Radius: 0.077860                                                     
+Gear Ratio: 78.000000                                                           
+Encoder Resolution: 40.000000                                                   
+Motor Left: 0                                                                   
+Motor Right: 1                                                                  
+Motor Polarity: -1 -1                                                           
+Encoder Polarity: 1 1                                                           
+Positive Slope: 0.056382 0.050941                                               
+Positive Intercept: 0.051877 0.058392                                           
+Negative Slope: 0.052385 0.059489                                               
+Negative Intercept: -0.052192 -0.033026
